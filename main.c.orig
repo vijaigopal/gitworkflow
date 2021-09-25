@@ -4,7 +4,7 @@ a=0
 b=9
 x=a+b
 }
-HEAD
+<<<<<<< HEAD
 //Updated by Developer3
 {
 g=1
@@ -12,7 +12,7 @@ h=2
 p=g+h
 }
 
-
+=======
 HEAD
 //Developer1 code
 {
@@ -27,4 +27,4 @@ f=4
 z=e+f
 
 }
-master
+>>>>>>> master
